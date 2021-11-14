@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(90deg,whitesmoke,aqua);
+}
+
+.title{
+    margin-bottom: 10px;
+    text-align: center;
+    width: 410px;
+    color: black;
+    border: 2px solid black;
+    background: aqua;
+    font-size: 25px;
+    margin-left: 500px;
+    margin-top: 220px;
+} 
+
+input[type="button"]
+{
+    background: black;
+    color: white;
+    border: 1px solid black;
+    width: 100%;
+    font-size: 22px;
+}
+
+input[type="text"]
+{
+    background: white;
+    border: 1px solid black;
+    width: 98%;
+    font-size: 22px;
+}  
+
+table{
+    padding: 35px;
+    width: 400px;
+    margin-left: 510px;
+    background: lightcyan;
+  
+    
+}
